@@ -1,4 +1,3 @@
-![MasterHead](https://freight.cargo.site/w/1200/i/2fcf8fc6613f3eb693a5d49bebc7f05c71a2fb41dc50c5f76e3dd0fc739c3e4f/machine-learning.gif)
 <h1 align="center">Hi 👋, I'm Bence Lukácsy</h1>
 <h3 align="center">A passionate young programmer from Budapest</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
