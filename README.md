@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **gradient-boosted decision trees**
 
-- 💬 Ask me about **web scraping, cryptography, and discord bots**
+- 💬 Ask me about **web scraping, cryptography, or discord bots**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
