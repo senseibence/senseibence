@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senseibence&label=Profile%20views&color=0e75b6&style=flat" alt="senseibence" /> </p>
 
-- 🔭 I’m currently working on **cancer prediction with machine learning**
+- 🔭 I’m currently working on **cancerprediction.org**
 
-- 🌱 I’m currently learning **scikit-learn and tensorflow**
+- 🌱 I’m currently learning about **gradient-boosted decision trees**
 
-- 💬 Ask me about **web scraping**
+- 💬 Ask me about **web scraping, cryptography, and discord bots**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
