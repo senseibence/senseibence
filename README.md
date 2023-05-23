@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senseibence&label=Profile%20views&color=0e75b6&style=flat" alt="senseibence" /> </p>
 
-- 🔭 I’m currently working on **cancerprediction.org**
+- 🔭 I’m currently working on **camera glasses**
 
-- 🌱 I’m currently learning about **gradient-boosted decision trees**
+- 🌱 I’m currently learning about **linux**
 
 - 💬 Ask me about **web scraping, cryptography, or discord bots**
 
