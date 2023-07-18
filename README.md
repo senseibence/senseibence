@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **camera glasses**
 
-- 🌱 I’m currently learning about **linux**
+- 🌱 I’m currently learning about **large language models**
 
 - 💬 Ask me about **web scraping, cryptography, or discord bots**
 
